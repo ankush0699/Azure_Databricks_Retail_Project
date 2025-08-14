@@ -91,6 +91,7 @@ The data is ingested from multiple sources, transformed, cleaned, and aggregated
   * **HTTP Path** (from SQL Warehouse)
   * **Azure Active Directory Authentication**
 * Imported `retail_data.final_data_managed` into Power BI for dashboard creation.
+<img width="1322" height="743" alt="image" src="https://github.com/user-attachments/assets/2f097985-a5be-43c0-9d66-9677f65be778" />
 
 ---
 
